@@ -1,0 +1,8 @@
+node_modules/
+config.json
+credentials.json
+baileys_auth/
+admin_queue.log
+*.log
+.env
+images/
