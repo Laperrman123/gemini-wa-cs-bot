@@ -1,8 +1,19 @@
 node_modules/
+
+# Secrets & konfigurasi lokal
 config.json
 credentials.json
+.env
+.env.*
+!.env.example
 baileys_auth/
+
+# Data runtime
 admin_queue.log
 *.log
-.env
 images/
+assets/qris*
+qris*.png
+qris*.jpg
+auto_message_state.json
+orders.jsonl
